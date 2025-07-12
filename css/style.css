@@ -1,0 +1,12 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    padding: 20px;
+}
+a { color: #88c0d0; text-decoration: none; }
+input, button {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+}
